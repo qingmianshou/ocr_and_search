@@ -14,8 +14,9 @@ a_right_bottom_point = (490,910)
 screen_size = (1080,1920)
 
 ##通过万象优图获取OCR图片字符串
+#要申请
 wx_url = "http://recognition.image.myqcloud.com/ocr/general"
-appid = "1253660247"
+appid = "7"
 bucket = "demo1"
-secret_id = "AKIDuiNsB1zEYgcMvJvYPCtRoz0pmcHkk821"
-secret_key = "0tb7Ra8GI8mFWbVJzUODrNqAKMDsNm03"
+secret_id = "AKIDuiNsB1zEYgcMvPCtRo1"
+secret_key = "0tb7Ra8GI8mFWbVODrNm03"
